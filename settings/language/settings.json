@@ -1,0 +1,14 @@
+{
+  "servidor.entrada.player.joined": "Seja bem-vindo(a)!",
+  "servidor.tablist.player.playing": "§fVocê está jogando no §eslyce.network§f!",
+  "servidor.tablist.player.forum": "§fFórum: §8➜ §bforum.slyce.network",
+  "servidor.tablist.player.loja": "§fLoja: §8➜ §bloja.slyce.network",
+  "servidor.scoreboard.players": "Jogadores",
+  "servidor.chat.player.joined": "§6entrou no lobby!",
+  "servidor.chat.delay.player": "§cAguarde para digitar novamente.",
+  "server.connect-player-error": "§cAparentemente o servidor não conseguiu carregar seu Perfil.\n \n§cIsso ocorre normalmente quando o servidor ainda está despreparado para receber logins, aguarde um pouco e tente novamente.",
+  "language.changed.portuguese": "§aSeu idioma foi alterado para Português!",
+  "language.changed.english": "§aSeu idioma foi alterado para Inglês!",
+  "language.current.portuguese": "§eSeu idioma atual é: §aPortuguês",
+  "language.current.english": "§eSeu idioma atual é: §aInglês"
+}
